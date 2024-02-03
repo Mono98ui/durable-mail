@@ -7,25 +7,26 @@ from os import listdir
 from os.path import isfile, join
 from env import initVariable 
 
-def sendMail(title, newMessage, mailReceiver):   
+def sendMail(newMessage, mailReceiver):   
   port = int(os.environ["port"]) 
   smtp_server = os.environ["smtpServer"]
   sender_email = os.environ["senderEmail"]
   receiver_email = mailReceiver 
   password = os.environ["senderEmailPwd"]
 
-  message = MIMEMultipart("alternative")
-  message["Subject"] = "Nouvelle DurableMail - "+title
+  message = MIMEMultipart()
+  message["Subject"] = "Nouvelle Journal Vert"
   message["From"] = sender_email
   message["To"] = receiver_email
 
+  html = """\
+  {}
+""".format(newMessage)
 
-  text = newMessage
 
+  partHTML = MIMEText(html, "html")
 
-  partText = MIMEText(text, "plain")
-
-  message.attach(partText)
+  message.attach(partHTML)
 
   context = ssl.create_default_context()
   with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
@@ -42,12 +43,9 @@ def readArticle(filePath):
   title = ""
 
   for line in file:
-    if isTitle:
-      title = line
-      isTitle = False
     text+=line
 
-  return title,text
+  return text
 
 def sendArticles(pathArticles, mailReceiver):
 
@@ -58,8 +56,8 @@ def sendArticles(pathArticles, mailReceiver):
 
     if isfile(join(pathArticles, listDirPath[index])):
       print(join(pathArticles, listDirPath[index]))
-      title, text=readArticle(join(pathArticles, listDirPath[index]))
-      sendMail(title, text, mailReceiver)
+      text=readArticle(join(pathArticles, listDirPath[index]))
+      sendMail(text, mailReceiver)
 
 initVariable()
 pathArticles = os.environ["pathArticles"]
