@@ -1,16 +1,18 @@
 import smtplib, ssl
 import random
+import os
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from os import listdir
 from os.path import isfile, join
+from env import initVariable 
 
 def sendMail(title, newMessage, mailReceiver):   
-  port = 465 
-  smtp_server = "smtp.gmail.com"
-  sender_email = "durablemail78@gmail.com" 
+  port = int(os.environ["port"]) 
+  smtp_server = os.environ["smtpServer"]
+  sender_email = os.environ["senderEmail"]
   receiver_email = mailReceiver 
-  password = "lgdb zicv agcl jzfc"
+  password = os.environ["senderEmailPwd"]
 
   message = MIMEMultipart("alternative")
   message["Subject"] = "Nouvelle DurableMail - "+title
@@ -26,7 +28,7 @@ def sendMail(title, newMessage, mailReceiver):
   message.attach(partText)
 
   context = ssl.create_default_context()
-  with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+  with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
       server.login(sender_email, password)
       server.sendmail(
           sender_email, receiver_email, message.as_string()
@@ -59,8 +61,9 @@ def sendArticles(pathArticles, mailReceiver):
       title, text=readArticle(join(pathArticles, listDirPath[index]))
       sendMail(title, text, mailReceiver)
 
-pathArticles = ".\\articles"
-pathMailList = ".\\emailList.txt"
+initVariable()
+pathArticles = os.environ["pathArticles"]
+pathMailList = os.environ["pathMailList"]
 
 fileEmail = open(pathMailList, "r")
 
