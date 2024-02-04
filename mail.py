@@ -51,8 +51,9 @@ def sendArticles(pathArticles, mailReceiver):
 
   listDirPath = listdir(pathArticles)
 
-  if(len(listDirPath) >= 1):
+  if (len(listDirPath) >= 1):
     index = random.randrange(0, len(listDirPath))
+
 
     if isfile(join(pathArticles, listDirPath[index])):
       print(join(pathArticles, listDirPath[index]))
@@ -61,7 +62,7 @@ def sendArticles(pathArticles, mailReceiver):
 
 initVariable()
 pathArticles = os.environ["pathArticles"]
-pathMailList = os.environ["pathMailList"]
+pathMailList = os.environ["pathMailList"] 
 
 fileEmail = open(pathMailList, "r")
 

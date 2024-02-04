@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -63,4 +62,3 @@
     <p>L'histoire de cette personne obèse morbide, découvrant les légumes pour sauver la planète, est un témoignage inspirant de la puissance de la transformation personnelle et de l'impact positif sur l'environnement. Ce voyage culinaire, bien au-delà de la simple perte de poids, représente un engagement profond envers un mode de vie durable et la compréhension que chaque choix alimentaire compte dans la préservation de notre planète. C'est une histoire de renouveau, de découverte de soi et de redécouverte du plaisir de manger tout en agissant en faveur d'un monde plus sain et plus vert.</p>
 </body>
 </html>
-```
