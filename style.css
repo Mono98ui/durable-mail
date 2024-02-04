@@ -8,7 +8,7 @@
     width: 100%;
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-      url("../images/background_home_page.jpg");
+      url("images/background_home_page.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -42,7 +42,7 @@
   }
   
   .navbar ul li a:hover {
-    color: orange;
+    color: rgb(94, 255, 0);
     text-decoration: none;
   }
   
@@ -87,6 +87,12 @@
     font-weight: bold;
     line-height: 25px;
     color: #ddded2;
+  }
+
+  .content_home h3  {
+    font-size: 20px;
+    margin-top: 350px;
+    color: #dcdcc2;
   }
   
   .button {
@@ -205,5 +211,44 @@
     background-color: #dddddd;
     transition: background-color 0.3s ease;
   }
-  
-  
+  form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+input[type="email"] {
+    width: 15%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  color: #cecece;
+} 
+
+.form-messages {
+  margin-bottom: 20px;
+}
+
