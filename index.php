@@ -6,14 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" />
-    <title>Home</title>
+    <title>Accueil</title>
 </head>
 
 <body>
     <div class="banner_home">
         <?php include("header.html"); ?>
         <div class="content_home">
-            <h1>Email Durable</h1>
+            <h1>Email <span style="color:chartreuse">Durable</span></h1>
             <p id="currentDateTime"></p>
             <!-- Metrics Section -->
             <div class="metrics">
@@ -22,7 +22,7 @@
                  $NombreAbonner = count(file($file, FILE_SKIP_EMPTY_LINES));
                 // Extracted metrics as an associative array for better readability
                 $metrics = [
-                    "Nombre d'abonnes" => $NombreAbonner,
+                    "Nombre d'abonnés" => $NombreAbonner,
                     // Add more metrics as needed
                 ];
                 // Display metrics
