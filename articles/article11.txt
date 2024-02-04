@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Une Révolution Culinaire : Quand une Personne Obèse Morbide Découvre les Légumes pour Sauver la Planète</title>
+    <title>A Culinary Revolution: When a Morbidly Obese Person Discovers Vegetables to Save the Planet</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -31,34 +31,34 @@
     </style>
 </head>
 <body>
-    <h1>Une Révolution Culinaire : Quand une Personne Obèse Morbide Découvre les Légumes pour Sauver la Planète</h1>
+    <h1>A Culinary Revolution: When a Morbidly Obese Person Discovers Vegetables to Save the Planet</h1>
 
-    <p>Dans un coin du monde, une personne obèse morbide, confrontée aux défis de sa santé et à l'urgence environnementale, entreprend un voyage culinaire qui changera sa vie. Cette aventure inattendue débute lorsqu'elle décide de mettre de côté ses habitudes alimentaires préjudiciables et de découvrir le monde des légumes, non seulement pour sa santé, mais aussi dans l'espoir de contribuer à la préservation de la planète.</p>
+    <p>In a corner of the world, a morbidly obese person, faced with health challenges and environmental urgency, embarks on a culinary journey that will change their life. This unexpected adventure begins when they decide to set aside harmful eating habits and explore the world of vegetables, not only for their health but also in the hope of contributing to the preservation of the planet.</p>
 
-    <h2>Le Point de Départ : Conscience de la Santé et de l'Environnement</h2>
+    <h2>The Starting Point: Awareness of Health and Environment</h2>
 
-    <p>Après des années de lutte contre l'obésité morbide, cette personne atteint un point de rupture, réalisant que ses choix alimentaires ont des conséquences dévastatrices sur sa santé et sur l'environnement. Inspirée par une nouvelle conscience, elle décide de prendre des mesures significatives pour changer sa vie.</p>
+    <p>After years of struggling with morbid obesity, this person reaches a breaking point, realizing that their dietary choices have devastating consequences on their health and the environment. Inspired by a newfound awareness, they decide to take significant steps to change their life.</p>
 
-    <h2>La Découverte des Légumes : Un Voyage Culinaire Inattendu</h2>
+    <h2>Discovering Vegetables: An Unexpected Culinary Journey</h2>
 
-    <p><strong>Le Premier Contact avec la Verdure:</strong> Ses premiers pas dans le monde des légumes sont empreints de curiosité et d'appréhension. Elle choisit des légumes variés, des couleurs éclatantes qui attirent son attention, mais qui restent largement inconnus dans son régime alimentaire habituel.</p>
+    <p><strong>The First Encounter with Greens:</strong> Their first steps into the world of vegetables are filled with curiosity and apprehension. They choose various vegetables, vibrant colors that catch their attention but are largely unknown in their usual diet.</p>
 
-    <p><strong>L'Expérimentation et la Créativité Culinaire:</strong> Armée de recettes et de conseils, elle explore la cuisine végétarienne avec enthousiasme. Des salades colorées aux soupes nourrissantes, elle découvre une nouvelle palette de saveurs qui éveillent ses papilles et redéfinissent son approche de la nourriture.</p>
+    <p><strong>Experimentation and Culinary Creativity:</strong> Armed with recipes and advice, they enthusiastically explore vegetarian cuisine. From colorful salads to nourishing soups, they discover a new palette of flavors that awaken their taste buds and redefine their approach to food.</p>
 
-    <h2>La Prise de Conscience Écologique : Manger Vert pour Sauver la Planète</h2>
+    <h2>Ecological Awareness: Eating Green to Save the Planet</h2>
 
-    <p><strong>Comprendre l'Impact de son Alimentation:</strong> Au fil de son exploration culinaire, elle découvre l'impact positif de son choix alimentaire sur l'environnement. Les légumes, cultivés de manière responsable, nécessitent souvent moins de ressources que les produits d'origine animale, contribuant ainsi à la réduction de son empreinte carbone personnelle.</p>
+    <p><strong>Understanding the Impact of their Diet:</strong> Throughout their culinary exploration, they discover the positive impact of their dietary choice on the environment. Vegetables, grown responsibly, often require fewer resources than animal products, contributing to the reduction of their personal carbon footprint.</p>
 
-    <p><strong>La Quête d'un Mode de Vie Durable:</strong> Sa nouvelle alimentation à base de légumes s'accompagne d'une transformation plus large de son mode de vie. Elle explore le compostage, la réduction des déchets et d'autres pratiques durables, intégrant progressivement ces changements dans son quotidien.</p>
+    <p><strong>Pursuing a Sustainable Lifestyle:</strong> Their new vegetable-based diet is accompanied by a broader transformation of their lifestyle. They explore composting, waste reduction, and other sustainable practices, gradually integrating these changes into their daily life.</p>
 
-    <h2>L'Évolution Personnelle et l'Impact sur la Santé</h2>
+    <h2>Personal Evolution and Health Impact</h2>
 
-    <p><strong> Bienfaits Physiques et Mentaux:</strong> Au fil des semaines, elle ressent les bienfaits physiques de son nouveau régime alimentaire. Sa santé s'améliore, son énergie augmente, et elle découvre une nouvelle joie dans la préparation et la dégustation de repas sains.</p>
+    <p><strong>Physical and Mental Benefits:</strong> Over the weeks, they feel the physical benefits of their new diet. Their health improves, their energy increases, and they discover a new joy in preparing and enjoying healthy meals.</p>
 
-    <p><strong>Un Équilibre Retrouvé:</strong> À mesure que son corps se transforme, elle trouve également un équilibre émotionnel. La satisfaction de prendre des décisions alimentaires éclairées renforce sa confiance en elle et contribue à la réduction du stress lié à sa condition.</p>
+    <p><strong>Regained Balance:</strong> As their body transforms, they also find emotional balance. The satisfaction of making informed dietary decisions reinforces their self-confidence and contributes to reducing stress related to their condition.</p>
 
-    <h2>Conclusion : Un Voyage Culinaire au Service de la Planète et de la Santé</h2>
+    <h2>Conclusion: A Culinary Journey in Service of the Planet and Health</h2>
 
-    <p>L'histoire de cette personne obèse morbide, découvrant les légumes pour sauver la planète, est un témoignage inspirant de la puissance de la transformation personnelle et de l'impact positif sur l'environnement. Ce voyage culinaire, bien au-delà de la simple perte de poids, représente un engagement profond envers un mode de vie durable et la compréhension que chaque choix alimentaire compte dans la préservation de notre planète. C'est une histoire de renouveau, de découverte de soi et de redécouverte du plaisir de manger tout en agissant en faveur d'un monde plus sain et plus vert.</p>
+    <p>The story of this morbidly obese person discovering vegetables to save the planet is an inspiring testimony to the power of personal transformation and positive impact on the environment. This culinary journey, far beyond mere weight loss, represents a profound commitment to a sustainable lifestyle and the understanding that every dietary choice matters in preserving our planet. It is a story of renewal, self-discovery, and rediscovering the joy of eating while acting for a healthier and greener world.</p>
 </body>
 </html>

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gertrude : La Pionnière Écolo-Roulante - Rouler avec Bienveillance dans une Silhouette Sphérique</title>
+    <title>Gertrude: The Eco-Rolling Pioneer - Rolling with Kindness in a Spherical Silhouette</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -31,30 +31,30 @@
     </style>
 </head>
 <body>
-    <h1>Gertrude : La Pionnière Écolo-Roulante - Rouler avec Bienveillance dans une Silhouette Sphérique</h1>
+    <h1>Gertrude: The Eco-Rolling Pioneer - Rolling with Kindness in a Spherical Silhouette</h1>
 
-    <p>Gertrude, une femme trans aux formes généreuses, a trouvé une manière unique de combiner son bien-être personnel avec un mode de vie écologique en découvrant les avantages de "rouler" littéralement avec sa silhouette ronde. Son parcours montre comment elle a transformé son quotidien pour devenir une véritable pionnière écolo-roulante.</p>
+    <p>Gertrude, a trans woman with generous curves, found a unique way to combine her personal well-being with an eco-friendly lifestyle by discovering the benefits of literally "rolling" with her round silhouette. Her journey shows how she transformed her daily life to become a true eco-rolling pioneer.</p>
 
-    <h2>L'Éveil Écologique de Gertrude</h2>
+    <h2>Gertrude's Ecological Awakening</h2>
 
-    <p><strong>La Révélation de la Forme Sphérique:</strong> Un jour, alors que Gertrude méditait sur son engagement envers un mode de vie plus écologique, elle a pris conscience que sa silhouette ronde pourrait être utilisée d'une manière qui va au-delà de l'estime de soi. Elle a imaginé comment elle pourrait utiliser sa propre forme pour se déplacer de manière respectueuse de l'environnement.</p>
+    <p><strong>The Revelation of the Spherical Shape:</strong> One day, as Gertrude reflected on her commitment to a more eco-friendly lifestyle, she realized that her round silhouette could be used in a way that goes beyond self-esteem. She envisioned how she could use her own shape to move in an environmentally friendly manner.</p>
 
-    <p><strong>Rouler en Harmonie avec Soi-Même et la Planète:</strong> C'est ainsi que Gertrude a décidé d'explorer cette idée unique en utilisant sa propre forme ronde comme moyen de transport. Elle a embrassé cette approche avec bienveillance, percevant cela comme une façon créative d'intégrer sa vie quotidienne à ses préoccupations environnementales.</p>
+    <p><strong>Rolling in Harmony with Oneself and the Planet:</strong> This is how Gertrude decided to explore this unique idea by using her own round shape as a means of transportation. She embraced this approach with kindness, seeing it as a creative way to integrate her daily life with her environmental concerns.</p>
 
-    <h2>L'Expérience de Rouler avec Sa Silhouette Sphérique</h2>
+    <h2>The Experience of Rolling with Her Spherical Silhouette</h2>
 
-    <p><strong>Balades Écologiques en Forme de Roulement:</strong> Gertrude a commencé à expérimenter son nouveau mode de déplacement. Au lieu d'utiliser des moyens de transport traditionnels, elle a embrassé l'idée de rouler littéralement avec sa propre silhouette, une manière écolo-unique de se déplacer dans le monde.</p>
+    <p><strong>Eco-Friendly Rolling Excursions:</strong> Gertrude began experimenting with her new mode of transportation. Instead of using traditional means of transport, she embraced the idea of literally rolling with her own silhouette, a uniquely eco-friendly way to move around the world.</p>
 
-    <p><strong>L'Étonnement des Passants:</strong> Cette approche peu conventionnelle a attiré l'attention et l'étonnement des passants. Gertrude a transformé son quotidien en une performance écologique, suscitant la curiosité des personnes qui la voyaient rouler avec aisance et fierté.</p>
+    <p><strong>Awe of Onlookers:</strong> This unconventional approach attracted the attention and awe of onlookers. Gertrude transformed her daily life into an ecological performance, sparking the curiosity of people who saw her rolling with ease and pride.</p>
 
-    <h2>La Confluence du Bien-Être Personnel et de l'Écologie</h2>
+    <h2>The Confluence of Personal Well-Being and Ecology</h2>
 
-    <p><strong>Bien-Être Physique et Émotionnel:</strong> L'utilisation créative de sa silhouette ronde s'est avérée être une source de bien-être physique et émotionnel pour Gertrude. Les déplacements réguliers ont contribué à renforcer sa santé et ont généré une nouvelle confiance en elle, prouvant que l'écologie peut coexister harmonieusement avec l'estime de soi.</p>
+    <p><strong>Physical and Emotional Well-Being:</strong> The creative use of her round silhouette proved to be a source of physical and emotional well-being for Gertrude. Regular movements helped strengthen her health and generated newfound self-confidence, proving that ecology can coexist harmoniously with self-esteem.</p>
 
-    <p><strong>Une Conscience Environnementale Élargie:</strong> En plus de ses avantages personnels, Gertrude a constaté que sa démarche unique contribuait à sensibiliser les gens à l'importance de penser de manière créative et écologique. Elle est devenue une ambassadrice informelle de la conscience environnementale, montrant que chacun peut trouver des moyens uniques de contribuer à la durabilité.</p>
+    <p><strong>Expanded Environmental Awareness:</strong> In addition to its personal benefits, Gertrude found that her unique approach contributed to raising awareness about the importance of thinking creatively and ecologically. She became an informal ambassador for environmental awareness, showing that everyone can find unique ways to contribute to sustainability.</p>
 
-    <h2>Conclusion : Gertrude, l'Écolo-Roulante, Change le Monde Un Roulement à la Fois</h2>
+    <h2>Conclusion: Gertrude, the Eco-Roller, is Changing the World One Roll at a Time</h2>
 
-    <p>Gertrude incarne l'idée que l'engagement envers un mode de vie écologique peut être aussi unique que chaque individu. Sa découverte innovante de rouler avec sa silhouette ronde offre une perspective créative sur la manière dont chacun peut contribuer à la préservation de la planète. Gertrude, avec son esprit pionnier, prouve que les choix écologiques peuvent être personnels, créatifs et, par-dessus tout, empreints d'une bienveillance sincère envers soi-même et envers la planète que nous appelons chez nous.</p>
+    <p>Gertrude embodies the idea that commitment to an eco-friendly lifestyle can be as unique as each individual. Her innovative discovery of rolling with her round silhouette offers a creative perspective on how everyone can contribute to the preservation of the planet. Gertrude, with her pioneering spirit, proves that ecological choices can be personal, creative, and, above all, imbued with genuine kindness towards oneself and the planet we call home.</p>
 </body>
 </html>
