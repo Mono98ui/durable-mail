@@ -18,6 +18,7 @@ def sendMail(newMessage, mailReceiver):
   message["Subject"] = "Nouvelle Journal Vert"
   message["From"] = sender_email
   message["To"] = receiver_email
+  message["Content-Type"] = "text/html; charset=utf-8"
 
   html = """\
   {}
