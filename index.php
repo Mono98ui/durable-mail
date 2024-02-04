@@ -1,21 +1,3 @@
-<?php
-// Sample data for illustration purposes
-$scheduleData = [
-    ['time' => '8:00 AM', 'vehicle' => 'Compact Car'],
-    ['time' => '10:00 AM', 'vehicle' => 'Full-Size Car'],
-    ['time' => '1:00 PM', 'vehicle' => 'Medium Car'],
-    // Add more schedule data as needed
-];
-
-// Check if the cookie is set
-if (!isset($_COOKIE['midnight_update'])) {
-    // If not set, update the date and set the cookie
-    setcookie('midnight_update', 'updated', strtotime('tomorrow midnight'));
-
-    // Your code to update the date in the database or perform other tasks
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,7 +5,7 @@ if (!isset($_COOKIE['midnight_update'])) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="style.css" />
     <title>Home</title>
 </head>
 
@@ -31,15 +13,16 @@ if (!isset($_COOKIE['midnight_update'])) {
     <div class="banner_home">
         <?php include("header.html"); ?>
         <div class="content_home">
-            <h1>Dashboard</h1>
+            <h1>Email Durable</h1>
             <p id="currentDateTime"></p>
             <!-- Metrics Section -->
             <div class="metrics">
                 <?php
+                 $file = 'emailList.txt';
+                 $NombreAbonner = count(file($file, FILE_SKIP_EMPTY_LINES));
                 // Extracted metrics as an associative array for better readability
                 $metrics = [
-                    'Total Revenue Today' => '$5000',
-                    'Customers served today' => '10',
+                    "Nombre d'abonnes" => $NombreAbonner,
                     // Add more metrics as needed
                 ];
                 // Display metrics
@@ -49,25 +32,6 @@ if (!isset($_COOKIE['midnight_update'])) {
                         <p><?php echo $metricValue; ?></p>
                     </div>
                 <?php endforeach; ?>
-            </div>
-            <div class="schedule_overview">
-                <h2>Today's Schedule Overview</h2>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Time</th>
-                            <th>Vehicle Type</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <?php foreach ($scheduleData as $entry) : ?>
-                            <tr>
-                                <td><?php echo $entry['time']; ?></td>
-                                <td><?php echo $entry['vehicle']; ?></td>
-                            </tr>
-                        <?php endforeach; ?>
-                    </tbody>
-                </table>
             </div>
             <script>
                 function updateDateTime() {
