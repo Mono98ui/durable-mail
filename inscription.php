@@ -67,16 +67,16 @@
             <div class="content_home">
                 <!-- Formulaire d'abonnement -->
                 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
-                    <label for="email">Adresse e-mail :</label>
-                    <input type="email" name="email" required>
+                    <label for="email">Tenez-vous au courant et sauvez le monde :</label>
+                    <input type="email"  placeholder="Adresse e-mail" name="email" required>
                     <br>
                     <input type="submit" name="subscribe" value="S'abonner">
                 </form>
 
                 <!-- Formulaire de désabonnement -->
                 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
-                    <label for="email">Adresse e-mail :</label>
-                    <input type="email" name="email" required>
+                    <label for="email">Détruire notre planète verte:</label>
+                    <input type="email" placeholder="Adresse e-mail" name="email" required>
                     <br>
                     <input type="submit" name="unsubscribe" value="Se désabonner">
                 </form>
